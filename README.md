@@ -2,7 +2,7 @@
 - 👀 I’m interested in JS
 - 🌱 I’m currently learning JS
 - 💞️ I’m looking to collaborate on JS
-- 📫 How to reach me ...you can figure it
+- 📫 How to reach me ...you can figure it out
 
 <!---
 bpetya44/bpetya44 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
