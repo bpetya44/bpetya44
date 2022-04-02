@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bpetya44
-- 👀 I’m interested in JS
-- 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on JS
+- 👀 I’m interested in All web
+- 🌱 I’m always learning
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me ...you can figure it out
 
 <!---
