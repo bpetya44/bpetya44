@@ -15,7 +15,7 @@ I am open-source enthusiast and I learned a lot from the community, so I love to
 ```
 
 
-🔗 &nbsp;**Connect with me** [mail](ang.petya@gmail.com)
+🔗 &nbsp;**Connect with me** 
    
 
 
@@ -33,9 +33,6 @@ I am open-source enthusiast and I learned a lot from the community, so I love to
 
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=bpetya44&icon=0&color=0)](https://visitcount.itsvg.in)
