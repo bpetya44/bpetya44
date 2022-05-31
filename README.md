@@ -1,5 +1,5 @@
 ### Hey there, I am Petya Angelova  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-Full stack web developer and a freelance software engineer. I'am learning all the time. New tehnology is somethins I cannot miss. Explorer by ❤️ and code is something that I practice as much as I possibly can. 
+Full stack web developer and a freelance software engineer. I am learning all the time. New technology is something I cannot miss. Explorer by ❤️ and code is something that I deeply love. Coding for the People behind the screen is something that keeps me going
 
 I am open-source enthusiast and I learned a lot from the community, I love to collaborate.
 ```
@@ -36,7 +36,7 @@ I am open-source enthusiast and I learned a lot from the community, I love to co
 [![](https://visitcount.itsvg.in/api?id=bpetya44&icon=0&color=0)](https://visitcount.itsvg.in)
 
  
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bpetya) 
+<!--   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/bpetya)  -->
 
   
 
