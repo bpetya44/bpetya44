@@ -1,4 +1,4 @@
-### Hey there, I am Petya Angelova  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+### Hey there, I am Petya Angelova  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
 Full stack web developer and a freelance software engineer. I am learning all the time. New technology is something I cannot miss. Explorer by ❤️ and code is something that I deeply love. Coding for the People behind the screen is something that keeps me going
 
 I am open-source enthusiast and I learned a lot from the community, I love to collaborate.
