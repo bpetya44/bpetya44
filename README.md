@@ -1,18 +1,9 @@
-### Hey there, I am Petya Angelova  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="10%">
+<img src="https://res.cloudinary.com/bpetya/image/upload/v1681562609/img-pri/mesh-1430108_ftkyec.png">
+
+###  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"> Hey there, I am Petya Angelova  
 Full stack web developer and a freelance software engineer. I am learning all the time. New technology is something I cannot miss. Explorer by ❤️ and code is something that I deeply love. Coding for the People behind the screen is something that keeps me going
 
-I am open-source enthusiast and I learned a lot from the community, I love to collaborate.
-```
-  ____                  ____                      
- / __ \___  ___ ___    / __/__  __ _____________  
-/ /_/ / _ \/ -_) _ \  _\ \/ _ \/ // / __/ __/ -_) 
-\____/ .__/\__/_//_/ /___/\___/\_,_/_/  \__/\__/  
-   _/_/                  __  __   _               
-  / __/  _____ ______ __/ /_/ /  (_)__  ___ _     
- / _/| |/ / -_) __/ // / __/ _ \/ / _ \/ _ `/ _ _ 
-/___/|___/\__/_/  \_, /\__/_//_/_/_//_/\_, (_|_|_)
-                 /___/                /___/       
-```
+I am open-source enthusiast and I learned a lot from the community, I'd love to collaborate.
 
 
 🔗 &nbsp;**Connect with me** 
